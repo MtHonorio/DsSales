@@ -14,7 +14,7 @@ informações por meio de gráficos e uma planilha os dados de compras de uma de
 <img height="60" src="https://github.com/MtHonorio/Big-Game-Survey/blob/master/others/img/Expo.png?raw=true">&nbsp;&nbsp;
 <img height="50" src="https://github.com/MtHonorio/Big-Game-Survey/blob/master/others/img/PgAdmin.png?raw=true">&nbsp;&nbsp;
 <img height="50" src="https://github.com/MtHonorio/Big-Game-Survey/blob/master/others/img/heroku.svg?raw=true">&nbsp;&nbsp;
-<img height="60" src="https://github.com/MtHonorio/Big-Game-Survey/blob/master/others/img/sts-logo.png?raw=true">
+<img height="50" src="https://github.com/MtHonorio/Big-Game-Survey/blob/master/others/img/sts-logo.svg?raw=true">
 <img height="50" src="https://github.com/MtHonorio/Big-Game-Survey/blob/master/others/img/postman-logo.png?raw=true">
 <img height="50" src="https://github.com/MtHonorio/Big-Game-Survey/blob/master/others/img/vscode.png?raw=true">
 </p>
