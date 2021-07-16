@@ -34,8 +34,7 @@ informações por meio de gráficos e uma planilha os dados de compras de uma de
 ---
 ## Resultados
 <p align="center">
-  <a href="https://mthonorio-dssales-sds3.netlify.app/"><img height="500" src="https://github.com/MtHonorio/DsSales/blob/main/others/img/Home(SDS3).png?raw=true"></a>
-  <a href="https://mthonorio-dssales-sds3.netlify.app/"><img height="500" src="https://github.com/MtHonorio/DsSales/blob/main/others/img/Dashboard(SDS3).png?raw=true"></a>
+  <a href="https://mthonorio-dssales-sds3.netlify.app/"><img height="500" src="https://github.com/MtHonorio/DsSales/blob/main/others/img/dssales.gif?raw=true"></a>
 </p
 
 **Obs: Ao clicar na página Web será redirecionado para onde está hospedado o site e buscando os resultados no banco de dados**
